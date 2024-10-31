@@ -1,0 +1,4 @@
+# Ignore sub-directory simulation caches
+**/Cache
+# Ignore sub-directory non-final renders
+**/Renders
