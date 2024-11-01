@@ -6,4 +6,4 @@ I had the vision of a felted frog, simplified chibi-esque character. It would be
 
 Instead of felted-felting (?), I went with a needle-felted look to the chap. I am a complete n00b when it comes to using Blender's hair particle system, so I followed [this tutotial](https://www.youtube.com/watch?v=Jr7UaL7tMMw) which helped _a lot_. It took some tweaking, both to the hair settings, and to the model to make the shapes and colors easily distinct from each other, which is important for such a stylized character. Despite all the time I spent in hair particle system, it is still largely a mystery to me and I should do a deeper dive one day to learn how it formally works.
 
-![Needle Felted Froggy](tbd)](https://github.com/xvrqt/100-Days-Of-Blender/blob/dev/Day%20-%2001/Final/needle_felt_frog.mp4)
+![Needle Felted Froggy](https://media.githubusercontent.com/media/xvrqt/100-Days-Of-Blender/refs/heads/dev/Day%20-%2001/Final/Needle%20Felted%20Frog.png)](https://github.com/xvrqt/100-Days-Of-Blender/blob/dev/Day%20-%2001/Final/needle_felt_frog.mp4)
