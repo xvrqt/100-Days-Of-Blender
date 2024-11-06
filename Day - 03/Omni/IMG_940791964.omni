@@ -1,0 +1,1426 @@
+{
+  "data" : {
+    "camera" : {
+      "relative_path" : ".\/movement_492269039.abc",
+      "frames" : [
+        {
+          "focal_length" : 24.099056243896484,
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.0881290435791,
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.621369481086731,
+          "focal_length" : 24.089353561401367,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.099641799926758,
+          "focus_distance" : 1.621369481086731
+        },
+        {
+          "focus_distance" : 1.621369481086731,
+          "focal_length" : 24.099746704101562,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.100013732910156
+        },
+        {
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.099857330322266
+        },
+        {
+          "focal_length" : 24.100173950195312,
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.099746704101562,
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.099376678466797,
+          "focus_distance" : 1.621369481086731
+        },
+        {
+          "focal_length" : 24.099586486816406,
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.099857330322266,
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.098628997802734,
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.088396072387695,
+          "focus_distance" : 1.648828387260437
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.087970733642578
+        },
+        {
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.08967399597168
+        },
+        {
+          "focal_length" : 24.088714599609375,
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.08834457397461,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.08706283569336,
+          "focus_distance" : 1.648828387260437
+        },
+        {
+          "focal_length" : 24.089462280273438,
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.08786392211914,
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.088661193847656,
+          "focus_distance" : 1.648828387260437
+        },
+        {
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.087970733642578,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.089088439941406,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.086956024169922
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.08860969543457
+        },
+        {
+          "focal_length" : 24.088289260864258,
+          "focus_distance" : 1.648828387260437,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.08967399597168
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.088661193847656
+        },
+        {
+          "focus_distance" : 1.648828387260437,
+          "focal_length" : 24.08749008178711,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.089035034179688,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.621369481086731
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.08940887451172,
+          "focus_distance" : 1.621369481086731
+        },
+        {
+          "focal_length" : 24.08775520324707,
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.100173950195312,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.621369481086731
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.100492477416992,
+          "focus_distance" : 1.621369481086731
+        },
+        {
+          "focus_distance" : 1.621369481086731,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.099321365356445
+        },
+        {
+          "focus_distance" : 1.5595722198486328,
+          "focal_length" : 24.100173950195312,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.5595722198486328,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.099536895751953
+        },
+        {
+          "focal_length" : 24.100387573242188,
+          "focus_distance" : 1.5595722198486328,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.108383178710938,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.5595722198486328
+        },
+        {
+          "focus_distance" : 1.5595722198486328,
+          "focal_length" : 24.109127044677734,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.110889434814453,
+          "focus_distance" : 1.5448765754699707,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.217699646949768,
+          "focal_length" : 24.108915328979492,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.217699646949768,
+          "focal_length" : 24.119626998901367,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.217699646949768,
+          "focal_length" : 24.11925506591797
+        },
+        {
+          "focus_distance" : 1.217699646949768,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.130128860473633
+        },
+        {
+          "focal_length" : 24.129703521728516,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.217699646949768
+        },
+        {
+          "focus_distance" : 1.217699646949768,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.127941131591797
+        },
+        {
+          "focus_distance" : 1.418097972869873,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.129487991333008
+        },
+        {
+          "focus_distance" : 1.418097972869873,
+          "focal_length" : 24.12895393371582,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.129703521728516,
+          "focus_distance" : 1.418097972869873
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.140466690063477,
+          "focus_distance" : 1.418097972869873
+        },
+        {
+          "focal_length" : 24.14004135131836,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.418097972869873
+        },
+        {
+          "focus_distance" : 1.418097972869873,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.140254974365234
+        },
+        {
+          "focal_length" : 24.139562606811523,
+          "focus_distance" : 1.2846943140029907,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.141216278076172,
+          "focus_distance" : 1.2846943140029907,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.141586303710938,
+          "focus_distance" : 1.2846943140029907,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.14984703063965,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.2846943140029907
+        },
+        {
+          "focus_distance" : 1.2846943140029907,
+          "focal_length" : 24.151338577270508,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.1644294261932373,
+          "focal_length" : 24.148727416992188
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.1644294261932373,
+          "focal_length" : 24.15096664428711
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.15965461730957,
+          "focus_distance" : 1.1644294261932373
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.1644294261932373,
+          "focal_length" : 24.158855438232422
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.1644294261932373,
+          "focal_length" : 24.15991973876953
+        },
+        {
+          "focal_length" : 24.16034698486328,
+          "focus_distance" : 1.1644294261932373,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.15890884399414,
+          "focus_distance" : 1.0974626541137695
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.159709930419922,
+          "focus_distance" : 1.0684847831726074
+        },
+        {
+          "focal_length" : 24.170421600341797,
+          "focus_distance" : 1.0684847831726074,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.16988754272461,
+          "focus_distance" : 1.0684847831726074
+        },
+        {
+          "focal_length" : 24.180225372314453,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 1.0684847831726074
+        },
+        {
+          "focus_distance" : 1.0684847831726074,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.18150520324707
+        },
+        {
+          "focal_length" : 24.18092155456543,
+          "focus_distance" : 1.0437428951263428,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.0437428951263428,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.181720733642578
+        },
+        {
+          "focus_distance" : 1.0437428951263428,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.18976593017578
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.19072723388672,
+          "focus_distance" : 1.053600549697876
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.1910457611084,
+          "focus_distance" : 1.053600549697876
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.19136619567871,
+          "focus_distance" : 1.053600549697876
+        },
+        {
+          "focus_distance" : 1.053600549697876,
+          "focal_length" : 24.201229095458984,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.200056076049805,
+          "focus_distance" : 1.032550573348999
+        },
+        {
+          "focus_distance" : 1.032550573348999,
+          "focal_length" : 24.20058822631836,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 1.032550573348999,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.201068878173828
+        },
+        {
+          "focal_length" : 24.210872650146484,
+          "focus_distance" : 1.032550573348999,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.210391998291016,
+          "focus_distance" : 1.032550573348999,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.9911475777626038,
+          "focal_length" : 24.208955764770508
+        },
+        {
+          "focal_length" : 24.211671829223633,
+          "focus_distance" : 0.9911475777626038,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.222064971923828,
+          "focus_distance" : 0.9911475777626038
+        },
+        {
+          "focal_length" : 24.22057342529297,
+          "focus_distance" : 0.9394359588623047,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.22238540649414,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.9394359588623047
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.22100067138672,
+          "focus_distance" : 0.9394359588623047
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.231021881103516,
+          "focus_distance" : 0.8292614817619324
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.2322998046875,
+          "focus_distance" : 0.8488690257072449
+        },
+        {
+          "focal_length" : 24.240026473999023,
+          "focus_distance" : 0.8488690257072449,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.8488690257072449,
+          "focal_length" : 24.242372512817383
+        },
+        {
+          "focal_length" : 24.25084686279297,
+          "focus_distance" : 0.8488690257072449,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.251007080078125,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.8488690257072449
+        },
+        {
+          "focus_distance" : 0.8223880529403687,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.249408721923828
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.25228500366211,
+          "focus_distance" : 0.8036971688270569
+        },
+        {
+          "focal_length" : 24.26182746887207,
+          "focus_distance" : 0.8036971688270569,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.263639450073242,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.8036971688270569
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.271472930908203,
+          "focus_distance" : 0.8036971688270569
+        },
+        {
+          "focus_distance" : 0.8036971688270569,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.271686553955078
+        },
+        {
+          "focus_distance" : 0.7872288823127747,
+          "focal_length" : 24.271419525146484,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.272966384887695,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.7260903716087341
+        },
+        {
+          "focal_length" : 24.280372619628906,
+          "focus_distance" : 0.7260903716087341,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.7453310489654541,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.282825469970703
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.7453310489654541,
+          "focal_length" : 24.29055404663086
+        },
+        {
+          "focal_length" : 24.292686462402344,
+          "focus_distance" : 0.7453310489654541,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.302705764770508,
+          "focus_distance" : 0.7453310489654541
+        },
+        {
+          "focal_length" : 24.303081512451172,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.721244215965271
+        },
+        {
+          "focal_length" : 24.30190658569336,
+          "focus_distance" : 0.721244215965271,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.30329132080078,
+          "focus_distance" : 0.6975389122962952
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.6975389122962952,
+          "focal_length" : 24.312620162963867
+        },
+        {
+          "focus_distance" : 0.6975389122962952,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.312299728393555
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.6758193969726562,
+          "focal_length" : 24.32231903076172
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.324237823486328,
+          "focus_distance" : 0.6254711151123047
+        },
+        {
+          "focal_length" : 24.33212661743164,
+          "focus_distance" : 0.6254711151123047,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.33313751220703,
+          "focus_distance" : 0.6391699910163879,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.6391699910163879,
+          "focal_length" : 24.34230613708496,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.345130920410156,
+          "focus_distance" : 0.6391699910163879
+        },
+        {
+          "focus_distance" : 0.6240512132644653,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.352752685546875
+        },
+        {
+          "focus_distance" : 0.6109440922737122,
+          "focal_length" : 24.35323143005371,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.6109440922737122,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.3626651763916
+        },
+        {
+          "focus_distance" : 0.5997375249862671,
+          "focal_length" : 24.3642635345459,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.5997375249862671,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.373537063598633
+        },
+        {
+          "focal_length" : 24.373912811279297,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.5997375249862671
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.382278442382812,
+          "focus_distance" : 0.5751615166664124
+        },
+        {
+          "focal_length" : 24.384145736694336,
+          "focus_distance" : 0.5691059827804565,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.401092529296875,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.5691059827804565
+        },
+        {
+          "focus_distance" : 0.5636798739433289,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.403919219970703
+        },
+        {
+          "focus_distance" : 0.5636798739433289,
+          "focal_length" : 24.422893524169922,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.424543380737305,
+          "focus_distance" : 0.5636798739433289,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.4323787689209,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.5480126738548279
+        },
+        {
+          "focus_distance" : 0.5430008769035339,
+          "focal_length" : 24.435203552246094,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.453113555908203,
+          "focus_distance" : 0.5367705225944519
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.455564498901367,
+          "focus_distance" : 0.5367705225944519
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.5093491673469543,
+          "focal_length" : 24.473684310913086
+        },
+        {
+          "focal_length" : 24.48306655883789,
+          "focus_distance" : 0.5093491673469543,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.5114427208900452,
+          "focal_length" : 24.484291076660156,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.50395965576172,
+          "focus_distance" : 0.5114427208900452,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.5114427208900452,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.505664825439453
+        },
+        {
+          "focal_length" : 24.51371192932129,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.5005847215652466
+        },
+        {
+          "focus_distance" : 0.44910573959350586,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.51546859741211
+        },
+        {
+          "focal_length" : 24.52351951599121,
+          "focus_distance" : 0.44910573959350586,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.52527618408203,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.4526226222515106
+        },
+        {
+          "focus_distance" : 0.4526226222515106,
+          "focal_length" : 24.544998168945312,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.4526226222515106,
+          "focal_length" : 24.545583724975586
+        },
+        {
+          "focal_length" : 24.565677642822266,
+          "focus_distance" : 0.430493026971817,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.56434440612793,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.40140435099601746
+        },
+        {
+          "focal_length" : 24.584653854370117,
+          "focus_distance" : 0.40140435099601746,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.589344024658203,
+          "focus_distance" : 0.39727047085762024,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.39727047085762024,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.615562438964844
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.614978790283203,
+          "focus_distance" : 0.39727047085762024
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.37347227334976196,
+          "focal_length" : 24.62675666809082
+        },
+        {
+          "focal_length" : 24.627395629882812,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.38018742203712463
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.645465850830078,
+          "focus_distance" : 0.38018742203712463
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.3714441657066345,
+          "focal_length" : 24.645782470703125
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.656658172607422,
+          "focus_distance" : 0.3714441657066345
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.659374237060547,
+          "focus_distance" : 0.3714441657066345
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.36764928698539734,
+          "focal_length" : 24.67557716369629
+        },
+        {
+          "focal_length" : 24.678030014038086,
+          "focus_distance" : 0.355853796005249,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.683517456054688,
+          "focus_distance" : 0.355853796005249,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.3546270430088043,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.687728881835938
+        },
+        {
+          "focal_length" : 24.70622444152832,
+          "focus_distance" : 0.3546270430088043,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.709049224853516,
+          "focus_distance" : 0.3546270430088043
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.72445297241211,
+          "focus_distance" : 0.34839779138565063
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.72999382019043,
+          "focus_distance" : 0.3392072021961212
+        },
+        {
+          "focal_length" : 24.748435974121094,
+          "focus_distance" : 0.3392072021961212,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.74928855895996,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.33073684573173523
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.33073684573173523,
+          "focal_length" : 24.76874351501465
+        },
+        {
+          "focal_length" : 24.77039337158203,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.33073684573173523
+        },
+        {
+          "focus_distance" : 0.31997594237327576,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.79730796813965
+        },
+        {
+          "focus_distance" : 0.3003888428211212,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.801679611206055
+        },
+        {
+          "focal_length" : 24.828327178955078,
+          "focus_distance" : 0.3003888428211212,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 24.832378387451172,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.296357661485672
+        },
+        {
+          "focal_length" : 24.85774803161621,
+          "focus_distance" : 0.296357661485672,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.863452911376953,
+          "focus_distance" : 0.296357661485672
+        },
+        {
+          "focus_distance" : 0.28273192048072815,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.89073944091797
+        },
+        {
+          "focus_distance" : 0.2675997316837311,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.89286994934082
+        },
+        {
+          "focal_length" : 24.93113899230957,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.2675997316837311
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.2547158896923065,
+          "focal_length" : 24.936256408691406
+        },
+        {
+          "focal_length" : 24.9705810546875,
+          "focus_distance" : 0.2547158896923065,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.25065234303474426,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 24.976337432861328
+        },
+        {
+          "focal_length" : 25.010339736938477,
+          "focus_distance" : 0.25065234303474426,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.017375946044922,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.24379682540893555
+        },
+        {
+          "focus_distance" : 0.24379682540893555,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.050365447998047
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.23455898463726044,
+          "focal_length" : 25.056602478027344
+        },
+        {
+          "focal_length" : 25.092363357543945,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.23455898463726044
+        },
+        {
+          "focal_length" : 25.096843719482422,
+          "focus_distance" : 0.23196223378181458,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.12098503112793,
+          "focus_distance" : 0.23196223378181458
+        },
+        {
+          "focal_length" : 25.124664306640625,
+          "focus_distance" : 0.22671881318092346,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.152376174926758,
+          "focus_distance" : 0.22671881318092346,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.154830932617188,
+          "focus_distance" : 0.22743360698223114,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.16378402709961,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.22743360698223114
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.166929244995117,
+          "focus_distance" : 0.22743360698223114
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.22330009937286377,
+          "focal_length" : 25.183183670043945
+        },
+        {
+          "focal_length" : 25.18819236755371,
+          "focus_distance" : 0.2199927270412445,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.213029861450195,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.2199927270412445
+        },
+        {
+          "focus_distance" : 0.21409717202186584,
+          "focal_length" : 25.217559814453125,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.21409717202186584,
+          "focal_length" : 25.245647430419922
+        },
+        {
+          "focus_distance" : 0.21409717202186584,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.248260498046875
+        },
+        {
+          "focus_distance" : 0.21269312500953674,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.27528190612793
+        },
+        {
+          "focus_distance" : 0.20874856412410736,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.278480529785156
+        },
+        {
+          "focal_length" : 25.3048095703125,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.20874856412410736
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.20854602754116058,
+          "focal_length" : 25.306995391845703
+        },
+        {
+          "focus_distance" : 0.20854602754116058,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.325862884521484
+        },
+        {
+          "focal_length" : 25.328044891357422,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.20854602754116058
+        },
+        {
+          "focal_length" : 25.346595764160156,
+          "focus_distance" : 0.20654256641864777,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.347179412841797,
+          "focus_distance" : 0.20654256641864777,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.20654256641864777,
+          "focal_length" : 25.367008209228516
+        },
+        {
+          "focus_distance" : 0.20654256641864777,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.366369247436523
+        },
+        {
+          "focus_distance" : 0.20654256641864777,
+          "focal_length" : 25.367063522338867,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.20654256641864777,
+          "focal_length" : 25.366209030151367
+        },
+        {
+          "focus_distance" : 0.20370495319366455,
+          "focal_length" : 25.36610221862793,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.20457735657691956,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.36871337890625
+        },
+        {
+          "focus_distance" : 0.20457735657691956,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.376495361328125
+        },
+        {
+          "focus_distance" : 0.20457735657691956,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.377349853515625
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.38587760925293,
+          "focus_distance" : 0.20457735657691956
+        },
+        {
+          "focal_length" : 25.38699722290039,
+          "focus_distance" : 0.20457735657691956,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.2036084532737732,
+          "focal_length" : 25.38582420349121,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.2026483565568924,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.38800811767578
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.2026483565568924,
+          "focal_length" : 25.395095825195312
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.397335052490234,
+          "focus_distance" : 0.20169678330421448
+        },
+        {
+          "focal_length" : 25.40682029724121,
+          "focus_distance" : 0.20169678330421448,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.20169678330421448,
+          "focal_length" : 25.408262252807617
+        },
+        {
+          "focal_length" : 25.4171085357666,
+          "focus_distance" : 0.19889074563980103,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.41934585571289,
+          "focus_distance" : 0.19427195191383362,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.437095642089844,
+          "focus_distance" : 0.19427195191383362,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.18981459736824036,
+          "focal_length" : 25.441570281982422,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.476322174072266,
+          "focus_distance" : 0.18981459736824036,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.48229217529297,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.18981459736824036
+        },
+        {
+          "focus_distance" : 0.18548469245433807,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.529193878173828
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.536176681518555,
+          "focus_distance" : 0.17707128822803497
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.600345611572266,
+          "focus_distance" : 0.17707128822803497
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.60370445251465,
+          "focus_distance" : 0.17291979491710663
+        },
+        {
+          "focal_length" : 25.623903274536133,
+          "focus_distance" : 0.17291979491710663,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.17291979491710663,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.62145233154297
+        },
+        {
+          "focus_distance" : 0.16455736756324768,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.62177276611328
+        },
+        {
+          "focal_length" : 25.6285400390625,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.627260208129883,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.627315521240234,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.625980377197266,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.623798370361328,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.623849868774414,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.62432861328125,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.62827491760254,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.627954483032227,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.630407333374023,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.63461685180664,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.629924774169922,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.628807067871094,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.626249313354492,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.631685256958008,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.62859344482422,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.632057189941406
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.63067054748535,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.630779266357422,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.63461685180664,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.632965087890625,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.632856369018555
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.62592887878418,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.631580352783203
+        },
+        {
+          "focal_length" : 25.63456153869629,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.621292114257812
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.63690757751465,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.627155303955078,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.630407333374023,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.634403228759766
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.63152503967285,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focal_length" : 25.631420135498047,
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.633817672729492
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.631420135498047
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.631099700927734,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.631046295166016
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.627899169921875
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "focal_length" : 25.630247116088867,
+          "shutter_speed" : 0.01666666753590107
+        },
+        {
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.62672996520996
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.63035011291504,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "shutter_speed" : 0.01666666753590107,
+          "focal_length" : 25.632165908813477,
+          "focus_distance" : 0.15588904917240143
+        },
+        {
+          "focal_length" : 25.629606246948242,
+          "focus_distance" : 0.15588904917240143,
+          "shutter_speed" : 0.01666666753590107
+        }
+      ]
+    },
+    "video" : {
+      "relative_path" : ".\/IMG_940791964.mov",
+      "resolution" : {
+        "width" : 1920,
+        "height" : 1080
+      },
+      "fps" : 30
+    },
+    "geometry" : {
+      "relative_path" : [
+        ".\/scan_1730741107854395.obj"
+      ]
+    }
+  },
+  "version" : "2.2.0",
+  "blender" : {
+    "minimum_addon_version" : "1.4.0",
+    "ideal_addon_version" : "2.3.2"
+  },
+  "cinema4d" : {
+    "minimum_plugin_version" : "1.0.0",
+    "ideal_plugin_version" : "1.0.1"
+  }
+}
